@@ -89,6 +89,7 @@ color:#4d5ae5
     color:#404BBF;
 }
 .nav-list li:first-child .nav-link {
+    color: #404bbf;
     position: relative; 
 }
 .nav-list li:first-child .nav-link::after {
